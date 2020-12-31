@@ -1,3 +1,5 @@
+<code><img src="https://github.com/rasu007/rasu007/blob/main/wallpaper.gif"></code>
+
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rasu007&show_icons=true&theme=radical)
 
