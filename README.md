@@ -2,4 +2,12 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rasu007&show_icons=true&theme=radical)
 
 
+[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/mehedi-hasan-rashed-50b4b9b4)
+[![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/rasu007)
+
+
+** Languages and Tools: **
+
+
+
 ![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rasu007&layout=compact&theme=vue)
