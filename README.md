@@ -1,4 +1,4 @@
-<code><img max-width="500" src="https://github.com/rasu007/rasu007/blob/main/Demain-le-mot-anglais-blanc.jpg"></code>
+<img max-width="500" src="https://github.com/rasu007/rasu007/blob/main/Demain-le-mot-anglais-blanc.jpg">
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rasu007&show_icons=true&theme=radical)
