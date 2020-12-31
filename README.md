@@ -9,5 +9,8 @@
 ** Languages and Tools: **
 
 <code><img height="30" src="https://github.com/rasu007/rasu007/blob/main/android_vs_ios.jpg"></code>
+<code><img height="30" src="https://github.com/rasu007/rasu007/blob/main/logo.png"></code>
+<code><img height="30" src="https://github.com/rasu007/rasu007/blob/main/images.png"></code>
+<code><img height="30" src="https://github.com/rasu007/rasu007/blob/main/images.jpeg"></code>
 
 ![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rasu007&layout=compact&theme=vue)
