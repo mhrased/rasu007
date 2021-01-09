@@ -6,7 +6,7 @@
 
 [![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/mehedi-hasan-rashed-50b4b9b4)
 [![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/rasu007)
-[![stackoverflow iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/rasu007)
+[![stackoverflow iampawan](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://stackoverflow.com/)](https://github.com/rasu007)
 
 
 
