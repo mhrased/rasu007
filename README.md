@@ -8,6 +8,9 @@
 [![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/rasu007)
 
 
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@emondd4&v=2&layout=compact)
+
+
 
 ** Languages and Tools: **
 
